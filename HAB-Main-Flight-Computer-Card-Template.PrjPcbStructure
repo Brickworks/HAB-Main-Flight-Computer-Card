@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=CANbus.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=CANbus.SchDoc|FileName=ComputeModule.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=CANbus.SchDoc|FileName=EthernetBridge.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=CANbus.SchDoc|FileName=Interfaces.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=CANbus.SchDoc|FileName=NetworkSwitch.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=CANbus.SchDoc|FileName=Power-Supplies.SchDoc|SheetNumber=7
+Record=NoMainPathDocument|SourceDocument=CANbus.SchDoc|FileName=Sensors.SchDoc|SheetNumber=6
